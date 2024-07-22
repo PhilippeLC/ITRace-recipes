@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Identifier</key>
-	<string>local.intune.GoogleChromePkg-ITRace-LOB</string>
+	<string>GithubPhilippe.intune.GoogleChromePkg-ITRace-LOB</string>
 	<key>Input</key>
 	<dict>
 		<key>lob_app</key>
