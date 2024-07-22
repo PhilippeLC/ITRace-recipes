@@ -17,11 +17,11 @@
 			<string>AutoPkg</string>
 		</array>
 		<key>description</key>
-		<string>Mozilla Firefox is a free and open source web browser. This is the version for macOS devices.</string>
+		<string>Mozilla Firefox is a free and open source web browser. This is the version for macOS devices. Required application if device is in group "ITRace.Devices.macOS.AutoPkg.Applications".</string>
 		<key>developer</key>
 		<string>Mozilla</string>
 		<key>display_name</key>
-		<string>Firefox</string>
+		<string>Firefox (macOS)</string>
 		<key>assignment_info</key>
 			<array>
 				<dict>
